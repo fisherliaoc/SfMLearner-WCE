@@ -1,6 +1,10 @@
 The official repository for article "Self-supervised learning of monocular depth and ego-motion estimation for non-rigid scenes in wireless capsule endoscopy videos".
 
+## Citation
+
 If you find this work useful, please consider citing our paper:
+
+```plaintext
 @article{liao2024self,
   title={Self-supervised learning of monocular depth and ego-motion estimation for non-rigid scenes in wireless capsule endoscopy videos},
   author={Liao, Chao and Wang, Chengliang and Wang, Peng and Wu, Hao and Wang, Hongqian},
